@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Goaaal</string>
+    <string name="btn_goal">Goal +1</string>
+    <string name="btn_foul">Foul +1</string>
+</resources>
